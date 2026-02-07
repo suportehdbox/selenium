@@ -1,0 +1,23 @@
+
+
+
+
+imports
+
+pip install black
+
+pip install isort
+
+pip install pyautogui
+
+code
+
+
+procurar, find, locate, search, seek, pesquisar
+
+driver.find_element(
+    By.CSS_SELECTOR,
+    "input[data-testid='header-search-input']"
+)
+
+

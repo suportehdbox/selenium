@@ -1,0 +1,18 @@
+
+<input class="input-text pr-xhg w-full" 
+data-testid="header-search-input" 
+id="header-search-input" type="text" 
+autocapitalize="none" 
+autocomplete="off" 
+
+
+<button aria-disabled="false" class="chip chip-outline chip-xsm flex h-full items-center bg-brand-darker text-surface-container-lowest border-transparent hover:border-[var(--color-surface-container-lowest)] hover:bg-brand-darker hover:text-surface-container-lowest selected !bg-brand-darker !text-surface-container-lowest !border-[var(--color-surface-container-lowest)]" data-testid="header-link-item" type="button">Informática
+<i class="icon icon-chevron-down ml-2xsm text-surface-container-lowest font-xsm-regular transition-all rotate-180" data-testid="header-link-icon"></i>
+</button>
+
+
+<a class="box-border flex w-full no-underline items-center gap-sm py-sm bg-surface-container-lowest text-on-surface-2" 
+data-testid="dropdown-list-item" 
+href="https://www.magazineluiza.com.br/notebook/informatica/s/in/note/">
+<span class="whitespace-nowrap py-2xsm hover:text-interaction-default">Notebooks</span>
+<i class="icon icon-chevron-right font-lg-regular flex justify-center" data-testid="list-item-end-icon"></i></a>
